@@ -1,10 +1,12 @@
 # Bank_Customer_Churn_Prediction_Model
 The link to my dataset is given below:
 https://docs.google.com/spreadsheets/d/1RAcelrMoicSUHWwaE36Kk1Ys7HFLh9dB1aLFbylKZaA/edit?usp=sharing
+
 Due to a github bug many Python files are not opening. Incae if the matter persists click on the alternative link below to access my project
 https://nbviewer.jupyter.org/github/abrazlaskar/Bank_Customer_Churn_Prediction_Model/blob/main/bank_churn.ipynb
 
 A brief about my project is mentioned below:
+
 # Predicting-Customer-Churn-for-Banks
 Customers form an integral component of any business organization and thus customer satisfaction has been  a top priority for such organizations in order to expand their business.
 In the world of business, it is said that every  customer that is lost leads to a loss of capital The aim of this project is to look at the current trends/scenario of a particular bank with respect to its customers. Customer churn is one of the biggest concerns of a bank and through a combination of exploratory data analysis and model predictions the bank intends to retain its customers and minimize customer loss.
