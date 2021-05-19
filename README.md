@@ -2,7 +2,7 @@
 The link to my dataset is given below:
 https://docs.google.com/spreadsheets/d/1RAcelrMoicSUHWwaE36Kk1Ys7HFLh9dB1aLFbylKZaA/edit?usp=sharing
 
-Due to a github bug many Python files are not opening. Incae if the matter persists click on the alternative link below to access my project
+Due to a github bug many Python files are not opening. Incase if the matter persists click on the alternative link below to access my project
 https://nbviewer.jupyter.org/github/abrazlaskar/Bank_Customer_Churn_Prediction_Model/blob/main/bank_churn.ipynb
 
 A brief about my project is mentioned below:
